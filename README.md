@@ -4,11 +4,7 @@ Elk Stack project with Ansible and Bash
 
 The files in this repository were used to configure the network depicted below.
 
-<<<<<<< HEAD
 ![alt text](https://github.com/Karicraig325/elkstackKariC/blob/master/Images/ELK1.PNG "Diagram")
-=======
-Images/ELK1.PNG
->>>>>>> 820f9d7368d43e4758d8c2f6e5f1e79643a2b548
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the install-elk.yml file may be used to install only certain pieces of it, such as Filebeat.
 
